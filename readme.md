@@ -10,11 +10,11 @@ Christoph Pojer have added wrapper and loader for node.js.
 # Installation
 
 * Get npm (http://npmjs.org)
-* run `npm install mootools`
+* run <pre>npm install mootools</pre>
 * Done
 
 # Usage
-`
+<pre>
 require("./mootools").apply(GLOBAL);
 
 var Controller = new Class
@@ -45,4 +45,4 @@ var Controller1 = new Class
 		res.end(result);
 	}
 });
-`
+</pre>
