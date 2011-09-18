@@ -1,0 +1,13 @@
+{
+  "name": "mootools.js",
+  "version": "1.4.0",
+  "description": "MooTools latest server library as npm package for node.js",
+  "keywords": ["mootools", "oop"],
+  "repository": "git://github.com/stanislavfeldman/mootools.js.git",
+  "author": "Stanislav Feldman <stanislavfeldman@gmail.com>",
+  "dependencies": {},
+  "main": "mootools",
+  "engines": { 
+    "node": ">= 0.4.1" 
+  }
+}
